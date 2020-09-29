@@ -1,0 +1,15 @@
+name: rcognita
+channels:
+  - conda-forge
+dependencies:
+- matplotlib
+- scipy
+- scikit-learn
+- numpy
+- pandas
+- python=3.7
+- requests
+- ipython
+- cython
+- jupyter
+- pip
